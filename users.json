@@ -10,5 +10,11 @@
         "password": "password",
         "name": "User",
         "isAdmin": false
+    },
+    "TST": {
+        "username": "test",
+        "password": "debug",
+        "name": "Tester",
+        "isAdmin": true
     }
 }

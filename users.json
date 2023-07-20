@@ -1,0 +1,14 @@
+{
+    "ADM": {
+        "username": "admin",
+        "password": "admin",
+        "name": "Admin",
+        "isAdmin": true
+    },
+    "USR": {
+        "username": "user",
+        "password": "password",
+        "name": "User",
+        "isAdmin": false
+    }
+}

@@ -1,4 +1,4 @@
-# 2DGT20-Staff_absence_system
+# 2DGT20 - Staff Absence System
 DATE: 20/07/2023
 ## Description
 This project was another assignment for a digital technologies class. The goal here is to create a program that allows teachers to easily submit any requests for leave.
